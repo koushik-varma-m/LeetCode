@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/koushik-varma-m/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/koushik-varma-m/LeetCode/tree/master/0057-insert-interval) |
 | [2479-meeting-rooms-iii](https://github.com/koushik-varma-m/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/koushik-varma-m/LeetCode/tree/master/0056-merge-intervals) |
 | [2479-meeting-rooms-iii](https://github.com/koushik-varma-m/LeetCode/tree/master/2479-meeting-rooms-iii) |
 ## Heap (Priority Queue)
 |  |
