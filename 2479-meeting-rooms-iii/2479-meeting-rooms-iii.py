@@ -20,11 +20,7 @@ class Solution:
                     t,r=heapq.heappop(oc)
                     heapq.heappush(free,r)
             r=heapq.heappop(free)
-            if cur>s:
-                heapq.heappush(oc,[e+cur-s,r])
-            else:
-                heapq.heappush(oc,[e,r])
-                cur=s
+            heapq.heappush(oc,[e+cur-s,r])
             d[r]+=1
         ansRoom=0
         cur=d[0]
