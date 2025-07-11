@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0057-insert-interval](https://github.com/koushik-varma-m/LeetCode/tree/master/0057-insert-interval) |
 | [2479-meeting-rooms-iii](https://github.com/koushik-varma-m/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/koushik-varma-m/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
