@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2479-meeting-rooms-iii](https://github.com/koushik-varma-m/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/koushik-varma-m/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Greedy
@@ -21,4 +22,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/koushik-varma-m/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+## Hash Table
+|  |
+| ------- |
+| [2479-meeting-rooms-iii](https://github.com/koushik-varma-m/LeetCode/tree/master/2479-meeting-rooms-iii) |
+## Sorting
+|  |
+| ------- |
+| [2479-meeting-rooms-iii](https://github.com/koushik-varma-m/LeetCode/tree/master/2479-meeting-rooms-iii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2479-meeting-rooms-iii](https://github.com/koushik-varma-m/LeetCode/tree/master/2479-meeting-rooms-iii) |
+## Simulation
+|  |
+| ------- |
+| [2479-meeting-rooms-iii](https://github.com/koushik-varma-m/LeetCode/tree/master/2479-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
