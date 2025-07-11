@@ -4,7 +4,6 @@ class Solution:
         free=[]
         for i in range(n):
             heapq.heappush(free,i)
-        print(free)
         oc=[]
         d=defaultdict(int)
         cur=0
@@ -16,9 +15,6 @@ class Solution:
             if not free:
                 cur,r=heapq.heappop(oc)
                 heapq.heappush(free,r)
-                while oc and cur==oc[0][0]:
-                    t,r=heapq.heappop(oc)
-                    heapq.heappush(free,r)
             r=heapq.heappop(free)
             heapq.heappush(oc,[e+cur-s,r])
             d[r]+=1
