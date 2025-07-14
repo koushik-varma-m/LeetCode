@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/koushik-varma-m/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/koushik-varma-m/LeetCode/tree/master/0057-insert-interval) |
+| [0268-missing-number](https://github.com/koushik-varma-m/LeetCode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/koushik-varma-m/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [2479-meeting-rooms-iii](https://github.com/koushik-varma-m/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/koushik-varma-m/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -31,11 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/koushik-varma-m/LeetCode/tree/master/0268-missing-number) |
 | [2479-meeting-rooms-iii](https://github.com/koushik-varma-m/LeetCode/tree/master/2479-meeting-rooms-iii) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/koushik-varma-m/LeetCode/tree/master/0056-merge-intervals) |
+| [0268-missing-number](https://github.com/koushik-varma-m/LeetCode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/koushik-varma-m/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [2479-meeting-rooms-iii](https://github.com/koushik-varma-m/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/koushik-varma-m/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/koushik-varma-m/LeetCode/tree/master/0268-missing-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/koushik-varma-m/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Depth-First Search
 |  |
@@ -99,4 +103,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/koushik-varma-m/LeetCode/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/koushik-varma-m/LeetCode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/koushik-varma-m/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
