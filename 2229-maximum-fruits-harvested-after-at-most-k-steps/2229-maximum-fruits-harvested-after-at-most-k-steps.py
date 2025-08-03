@@ -23,8 +23,10 @@ class Solution:
                     - fruits[left][0]
                 )
 
+        # each time fix the right boundary of the window
         while right < n:
             sum += fruits[right][1]
+            # move left boundary
             while left <= right and step(left, right) > k:
                 sum -= fruits[left][1]
                 left += 1
