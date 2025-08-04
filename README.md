@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/koushik-varma-m/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/koushik-varma-m/LeetCode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/koushik-varma-m/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0940-fruit-into-baskets](https://github.com/koushik-varma-m/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/koushik-varma-m/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/koushik-varma-m/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/koushik-varma-m/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/koushik-varma-m/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/koushik-varma-m/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/koushik-varma-m/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/koushik-varma-m/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/koushik-varma-m/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/koushik-varma-m/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/koushik-varma-m/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/koushik-varma-m/LeetCode/tree/master/0268-missing-number) |
+| [0940-fruit-into-baskets](https://github.com/koushik-varma-m/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [2479-meeting-rooms-iii](https://github.com/koushik-varma-m/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/koushik-varma-m/LeetCode/tree/master/2689-rearranging-fruits) |
 ## Sorting
