@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/koushik-varma-m/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/koushik-varma-m/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/koushik-varma-m/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2529-range-product-queries-of-powers](https://github.com/koushik-varma-m/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/koushik-varma-m/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/koushik-varma-m/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/koushik-varma-m/LeetCode/tree/master/0268-missing-number) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/koushik-varma-m/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/koushik-varma-m/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2529-range-product-queries-of-powers](https://github.com/koushik-varma-m/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 ## Binary Search
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/koushik-varma-m/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2529-range-product-queries-of-powers](https://github.com/koushik-varma-m/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 ## Segment Tree
 |  |
 | ------- |
