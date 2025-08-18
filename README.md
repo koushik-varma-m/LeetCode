@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/koushik-varma-m/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0867-new-21-game](https://github.com/koushik-varma-m/LeetCode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/koushik-varma-m/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/koushik-varma-m/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/koushik-varma-m/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/koushik-varma-m/LeetCode/tree/master/0120-triangle) |
 | [0435-non-overlapping-intervals](https://github.com/koushik-varma-m/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/koushik-varma-m/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0867-new-21-game](https://github.com/koushik-varma-m/LeetCode/tree/master/0867-new-21-game) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/koushik-varma-m/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/koushik-varma-m/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/koushik-varma-m/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/koushik-varma-m/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/koushik-varma-m/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/koushik-varma-m/LeetCode/tree/master/0342-power-of-four) |
+| [0867-new-21-game](https://github.com/koushik-varma-m/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/koushik-varma-m/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/koushik-varma-m/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/koushik-varma-m/LeetCode/tree/master/1448-maximum-69-number) |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/koushik-varma-m/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/koushik-varma-m/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/koushik-varma-m/LeetCode/tree/master/0342-power-of-four) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/koushik-varma-m/LeetCode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
