@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/koushik-varma-m/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/koushik-varma-m/LeetCode/tree/master/0679-24-game) |
 | [0940-fruit-into-baskets](https://github.com/koushik-varma-m/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/koushik-varma-m/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/koushik-varma-m/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/koushik-varma-m/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/koushik-varma-m/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/koushik-varma-m/LeetCode/tree/master/0268-missing-number) |
 | [0900-reordered-power-of-2](https://github.com/koushik-varma-m/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/koushik-varma-m/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/koushik-varma-m/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/koushik-varma-m/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/koushik-varma-m/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2479-meeting-rooms-iii](https://github.com/koushik-varma-m/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/koushik-varma-m/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0097-interleaving-string](https://github.com/koushik-varma-m/LeetCode/tree/master/0097-interleaving-string) |
+| [1006-vowel-spellchecker](https://github.com/koushik-varma-m/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/koushik-varma-m/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/koushik-varma-m/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/koushik-varma-m/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
