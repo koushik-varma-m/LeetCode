@@ -45,7 +45,6 @@ class Router:
         #right-left gives the count of destinations within range of startTime and endtime
         return right-left
 
-
 # Your Router object will be instantiated and called as such:
 # obj = Router(memoryLimit)
 # param_1 = obj.addPacket(source,destination,timestamp)
