@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/koushik-varma-m/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/koushik-varma-m/LeetCode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/koushik-varma-m/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0473-matchsticks-to-square](https://github.com/koushik-varma-m/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0498-diagonal-traverse](https://github.com/koushik-varma-m/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/koushik-varma-m/LeetCode/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/koushik-varma-m/LeetCode/tree/master/0830-largest-triangle-area) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/koushik-varma-m/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/koushik-varma-m/LeetCode/tree/master/0120-triangle) |
 | [0435-non-overlapping-intervals](https://github.com/koushik-varma-m/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0473-matchsticks-to-square](https://github.com/koushik-varma-m/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/koushik-varma-m/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0867-new-21-game](https://github.com/koushik-varma-m/LeetCode/tree/master/0867-new-21-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/koushik-varma-m/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/koushik-varma-m/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/koushik-varma-m/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/koushik-varma-m/LeetCode/tree/master/0342-power-of-four) |
+| [0473-matchsticks-to-square](https://github.com/koushik-varma-m/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/koushik-varma-m/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/koushik-varma-m/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2529-range-product-queries-of-powers](https://github.com/koushik-varma-m/LeetCode/tree/master/2529-range-product-queries-of-powers) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/koushik-varma-m/LeetCode/tree/master/0037-sudoku-solver) |
+| [0473-matchsticks-to-square](https://github.com/koushik-varma-m/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0679-24-game](https://github.com/koushik-varma-m/LeetCode/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/koushik-varma-m/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Union Find
@@ -330,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3827-implement-router](https://github.com/koushik-varma-m/LeetCode/tree/master/3827-implement-router) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/koushik-varma-m/LeetCode/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
