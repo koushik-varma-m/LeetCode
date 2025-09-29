@@ -5,12 +5,9 @@ class Solution:
         if each*4 != tot:
             return False
         matchsticks.sort(reverse=True)
-        dp=dict()
         def rec(idx,a,b,c,d):
             if idx==len(matchsticks):
                 return True
-            if (idx,a,b,c,d) in dp:
-                return dp[(idx,a,b,c,d)]
             if a>each or b>each or c>each or d>each:
                 return False
             ans=False
@@ -22,7 +19,6 @@ class Solution:
                 ans= ans or rec(idx+1,a,b,c+matchsticks[idx],d)
             if d+matchsticks[idx]<=each:
                 ans= ans or rec(idx+1,a,b,c,d+matchsticks[idx])
-            dp[(idx,a,b,c,d)]=ans
             return ans
 
         return rec(0,0,0,0,0)
