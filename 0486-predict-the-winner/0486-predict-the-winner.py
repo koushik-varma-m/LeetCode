@@ -1,5 +1,6 @@
 class Solution:
     def predictTheWinner(self, nums: List[int]) -> bool:
+        @lru_cache
         def rec(i,j):
             if i==j:
                 return nums[i]
