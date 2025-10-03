@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/koushik-varma-m/LeetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/koushik-varma-m/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/koushik-varma-m/LeetCode/tree/master/0037-sudoku-solver) |
+| [0053-maximum-subarray](https://github.com/koushik-varma-m/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/koushik-varma-m/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/koushik-varma-m/LeetCode/tree/master/0057-insert-interval) |
 | [0118-pascals-triangle](https://github.com/koushik-varma-m/LeetCode/tree/master/0118-pascals-triangle) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/koushik-varma-m/LeetCode/tree/master/0053-maximum-subarray) |
 | [0097-interleaving-string](https://github.com/koushik-varma-m/LeetCode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/koushik-varma-m/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/koushik-varma-m/LeetCode/tree/master/0120-triangle) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/koushik-varma-m/LeetCode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/koushik-varma-m/LeetCode/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
 |  |
