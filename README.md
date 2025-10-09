@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/koushik-varma-m/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/koushik-varma-m/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/koushik-varma-m/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3827-implement-router](https://github.com/koushik-varma-m/LeetCode/tree/master/3827-implement-router) |
 ## Greedy
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/koushik-varma-m/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3790-fruits-into-baskets-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/koushik-varma-m/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/koushik-varma-m/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/koushik-varma-m/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/koushik-varma-m/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Segment Tree
 |  |
 | ------- |
