@@ -3,7 +3,8 @@ class Solution:
         ans=float(-inf)
         for i in range(len(energy)):
             if i+k>=len(energy):
-                ans=max(energy[i],ans)
+                if energy[i]>ans:
+                    ans=energy[i]
                 continue
             if energy[i]>0:
                 energy[i+k]+=energy[i]
