@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/koushik-varma-m/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/koushik-varma-m/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/koushik-varma-m/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/koushik-varma-m/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/koushik-varma-m/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/koushik-varma-m/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/koushik-varma-m/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/koushik-varma-m/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3519-find-the-number-of-winning-players](https://github.com/koushik-varma-m/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
 | [3678-design-task-manager](https://github.com/koushik-varma-m/LeetCode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/koushik-varma-m/LeetCode/tree/master/3827-implement-router) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/koushik-varma-m/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/koushik-varma-m/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/koushik-varma-m/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3748-sort-matrix-by-diagonals](https://github.com/koushik-varma-m/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/koushik-varma-m/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/koushik-varma-m/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/koushik-varma-m/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/koushik-varma-m/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/koushik-varma-m/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/koushik-varma-m/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/koushik-varma-m/LeetCode/tree/master/0165-compare-version-numbers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/koushik-varma-m/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/koushik-varma-m/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/koushik-varma-m/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Linked List
 |  |
 | ------- |
@@ -288,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/koushik-varma-m/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/koushik-varma-m/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/koushik-varma-m/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/koushik-varma-m/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3790-fruits-into-baskets-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/koushik-varma-m/LeetCode/tree/master/3827-implement-router) |
 ## Trie
@@ -344,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/koushik-varma-m/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/koushik-varma-m/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/koushik-varma-m/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3519-find-the-number-of-winning-players](https://github.com/koushik-varma-m/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
 ## Recursion
 |  |
