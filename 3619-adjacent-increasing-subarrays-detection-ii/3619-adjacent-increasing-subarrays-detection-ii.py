@@ -1,6 +1,6 @@
 class Solution:
     def maxIncreasingSubarrays(self, nums: List[int]) -> int:
-        a=[]
+        a=0
         cur=1
         prev=nums[0]
         ans=1
@@ -9,13 +9,11 @@ class Solution:
                 cur+=1
                 prev=nums[i]
             else:
-                if len(a):
-                    ans=max(min(a[-1],cur),ans)
+                ans=max(min(a,cur),ans)
                 ans=max(ans,cur//2)
-                a.append(cur)
+                a=cur
                 cur=1
                 prev=nums[i]
-        if len(a):
-            ans=max(min(a[-1],cur),ans)
+        ans=max(min(a,cur),ans)
         ans=max(ans,cur//2)
         return ans
