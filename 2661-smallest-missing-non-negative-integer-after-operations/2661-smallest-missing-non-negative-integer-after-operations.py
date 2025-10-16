@@ -4,11 +4,7 @@ class Solution:
         for i in range(len(nums)):
             d[nums[i]%value]+=1
         ans=0
-        while(True):
-            t=ans%value
-            if d[t]>0:
-                ans+=1
-                d[t]-=1
-            else:
-                break
+        while(d[ans%value]):
+            d[ans%value]-=1
+            ans+=1
         return ans
