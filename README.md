@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/koushik-varma-m/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/koushik-varma-m/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/koushik-varma-m/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/koushik-varma-m/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/koushik-varma-m/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/koushik-varma-m/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/koushik-varma-m/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/koushik-varma-m/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/koushik-varma-m/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/koushik-varma-m/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3396-valid-word](https://github.com/koushik-varma-m/LeetCode/tree/master/3396-valid-word) |
 ## Divide and Conquer
 |  |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/koushik-varma-m/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2529-range-product-queries-of-powers](https://github.com/koushik-varma-m/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/koushik-varma-m/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/koushik-varma-m/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/koushik-varma-m/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Binary Search
 |  |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/koushik-varma-m/LeetCode/tree/master/0473-matchsticks-to-square) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/koushik-varma-m/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Combinatorics
 |  |
 | ------- |
