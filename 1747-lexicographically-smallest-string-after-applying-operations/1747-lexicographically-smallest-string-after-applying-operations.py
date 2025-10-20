@@ -1,21 +1,15 @@
 class Solution:
     def findLexSmallestString(self, s: str, a: int, b: int) -> str:
-        se = set()
-        def rec(st):
-            if st in se:
-                return 
-            se.add(st)
-            
-            rec(st[-b:]+st[:-b])
-
-            x=""
-            for i,v in enumerate(st):
-                if i%2==0:
-                    x+=v
-                else:
-                    t = int(v)+a
-                    x+=str(t)[-1]
-            rec(x)
-
+        st=set()
+        def rec(s):
+            if s in st:
+                return
+            st.add(s)
+            rec(s[-b:]+s[:-b])
+            for i in range(1,len(s),2):
+                t=(int(s[i])+a)%10
+                s=s[:i]+str(t)+s[i+1:]
+            rec(s)
+            return 
         rec(s)
-        return min(se)
+        return min(st)
