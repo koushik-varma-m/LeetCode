@@ -4,10 +4,8 @@ class Solution:
         keys=list(c.keys())
         keys.sort()
         count=[0]
-        cur=0
         for i in range(len(keys)):
-            cur+=c[keys[i]]
-            count.append(cur)
+            count.append(count[-1]+c[keys[i]])
         l=0
         h=-1
         ans=0
