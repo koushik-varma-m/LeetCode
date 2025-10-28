@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3519-find-the-number-of-winning-players](https://github.com/koushik-varma-m/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/koushik-varma-m/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/koushik-varma-m/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/koushik-varma-m/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/koushik-varma-m/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/koushik-varma-m/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/koushik-varma-m/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/koushik-varma-m/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/koushik-varma-m/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/koushik-varma-m/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/koushik-varma-m/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/koushik-varma-m/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/koushik-varma-m/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/koushik-varma-m/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/koushik-varma-m/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/koushik-varma-m/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
