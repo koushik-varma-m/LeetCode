@@ -4,4 +4,4 @@ class Solution:
         ans = target[0]
         for i in range(1, n):
             ans += max(target[i] - target[i - 1], 0)
-        return ans
+        return ans  
