@@ -1,9 +1,9 @@
 class Solution:
     def getSneakyNumbers(self, nums: List[int]) -> List[int]:
-        ans=[]
-        s=set()
-        for i in nums:
-            if i in s:
-                ans.append(i)
-            s.add(i)
-        return ans
+        res = []
+        count = {}
+        for x in nums:
+            count[x] = count.get(x, 0) + 1
+            if count[x] == 2:
+                res.append(x)
+        return res
