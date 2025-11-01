@@ -17,8 +17,10 @@ class Solution:
         current = head
         while current.next:
             if current.next.val in values_to_remove:
+                # Skip the next node by updating the pointer
                 current.next = current.next.next
             else:
+                # Move to the next node
                 current = current.next
 
         return head
