@@ -1,0 +1,24 @@
+class Solution:
+    def modifiedList(
+        self, nums: List[int], head: Optional[ListNode]
+    ) -> Optional[ListNode]:
+        # Create a set for efficient lookup of values in nums
+        values_to_remove = set(nums)
+
+        # Handle the case where the head node needs to be removed
+        while head and head.val in values_to_remove:
+            head = head.next
+
+        # If the list is empty after removing head nodes, return None
+        if not head:
+            return None
+
+        # Iterate through the list, removing nodes with values in the set
+        current = head
+        while current.next:
+            if current.next.val in values_to_remove:
+                current.next = current.next.next
+            else:
+                current = current.next
+
+        return head
