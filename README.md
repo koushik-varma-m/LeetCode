@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/koushik-varma-m/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/koushik-varma-m/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/koushik-varma-m/LeetCode/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/koushik-varma-m/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/koushik-varma-m/LeetCode/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/koushik-varma-m/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/koushik-varma-m/LeetCode/tree/master/0679-24-game) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/koushik-varma-m/LeetCode/tree/master/0120-triangle) |
 | [0435-non-overlapping-intervals](https://github.com/koushik-varma-m/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/koushik-varma-m/LeetCode/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/koushik-varma-m/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/koushik-varma-m/LeetCode/tree/master/0486-predict-the-winner) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/koushik-varma-m/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0867-new-21-game](https://github.com/koushik-varma-m/LeetCode/tree/master/0867-new-21-game) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/koushik-varma-m/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0097-interleaving-string](https://github.com/koushik-varma-m/LeetCode/tree/master/0097-interleaving-string) |
 | [0165-compare-version-numbers](https://github.com/koushik-varma-m/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0474-ones-and-zeroes](https://github.com/koushik-varma-m/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [1006-vowel-spellchecker](https://github.com/koushik-varma-m/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/koushik-varma-m/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/koushik-varma-m/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
