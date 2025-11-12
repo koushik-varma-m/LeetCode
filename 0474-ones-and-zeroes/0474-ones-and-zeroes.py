@@ -1,25 +1,25 @@
 class Solution:
     def findMaxForm(self, strs: List[str], m: int, n: int) -> int:
-        dp = {(0, 0): 0}
-
+        temp=[]
         for s in strs:
-            ones = 0
-            zeroes = 0
-            for ch in s:
-                if ch == "0":
-                    zeroes += 1
+            t=[0,0]
+            for i in s:
+                if i=="0":
+                    t[0]+=1
                 else:
-                    ones += 1
-            newdp = {}
-
-            for k, v in dp.items():
-                prevzeroes, prevones = k
-                newzeroes, newones = prevzeroes + zeroes, prevones + ones
-                if newzeroes <= m and newones <= n:
-                    if (newzeroes, newones) not in dp:
-                        newdp[(newzeroes, newones)] = v + 1
-
-                    elif dp[(newzeroes, newones)] < v + 1:
-                        newdp[(newzeroes, newones)] = v + 1
-            dp.update(newdp)
-        return max(dp.values())
+                    t[1]+=1
+            temp.append(t)
+        dp={}
+        def rec(idx,x,y):
+            if idx==len(strs):
+                return 0
+            if (idx,x,y) in dp:
+                return dp[(idx,x,y)]
+            not_take=rec(idx+1,x,y)
+            take=0
+            if  x+temp[idx][0]<=m and y+temp[idx][1]<=n:
+                take=1+rec(idx+1,x+temp[idx][0], y+temp[idx][1])
+            dp[(idx,x,y)]=max(not_take,take)
+            return dp[(idx,x,y)]
+        return rec(0,0,0)
+        
