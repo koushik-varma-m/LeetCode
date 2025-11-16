@@ -1,14 +1,13 @@
 class Solution:
     def numSub(self, s: str) -> int:
-        total, consecutive = 0, 0
-        length = len(s)
-        for i in range(length):
-            if s[i] == "0":
-                total += consecutive * (consecutive + 1) // 2
-                consecutive = 0
-            else:
-                consecutive += 1
-
-        total += consecutive * (consecutive + 1) // 2
-        total %= 10**9 + 7
-        return total  
+        ans=0
+        idx=0
+        while(idx<len(s)):
+            c=0
+            while(idx<len(s) and s[idx]=="1"):
+                idx+=1
+                c+=1
+            ans+=c*(c+1)//2
+            if idx<len(s) and s[idx]=="0":
+                idx+=1
+        return ans%(10**9+7)
