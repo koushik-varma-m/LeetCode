@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/koushik-varma-m/LeetCode/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/koushik-varma-m/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/koushik-varma-m/LeetCode/tree/master/0679-24-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/koushik-varma-m/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0794-swim-in-rising-water](https://github.com/koushik-varma-m/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/koushik-varma-m/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/koushik-varma-m/LeetCode/tree/master/0940-fruit-into-baskets) |
