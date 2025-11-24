@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/koushik-varma-m/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0940-fruit-into-baskets](https://github.com/koushik-varma-m/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/koushik-varma-m/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/koushik-varma-m/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/koushik-varma-m/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/koushik-varma-m/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/koushik-varma-m/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/koushik-varma-m/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/koushik-varma-m/LeetCode/tree/master/0342-power-of-four) |
 | [0473-matchsticks-to-square](https://github.com/koushik-varma-m/LeetCode/tree/master/0473-matchsticks-to-square) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/koushik-varma-m/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/koushik-varma-m/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/koushik-varma-m/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/koushik-varma-m/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
