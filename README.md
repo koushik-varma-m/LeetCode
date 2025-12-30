@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/koushik-varma-m/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0794-swim-in-rising-water](https://github.com/koushik-varma-m/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/koushik-varma-m/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/koushik-varma-m/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0940-fruit-into-baskets](https://github.com/koushik-varma-m/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/koushik-varma-m/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/koushik-varma-m/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/koushik-varma-m/LeetCode/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/koushik-varma-m/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/koushik-varma-m/LeetCode/tree/master/0268-missing-number) |
+| [0840-magic-squares-in-grid](https://github.com/koushik-varma-m/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/koushik-varma-m/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/koushik-varma-m/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/koushik-varma-m/LeetCode/tree/master/1006-vowel-spellchecker) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/koushik-varma-m/LeetCode/tree/master/0486-predict-the-winner) |
 | [0679-24-game](https://github.com/koushik-varma-m/LeetCode/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/koushik-varma-m/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/koushik-varma-m/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/koushik-varma-m/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/koushik-varma-m/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/koushik-varma-m/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/koushik-varma-m/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/koushik-varma-m/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/koushik-varma-m/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/koushik-varma-m/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/koushik-varma-m/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/koushik-varma-m/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/koushik-varma-m/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
