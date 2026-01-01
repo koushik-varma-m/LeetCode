@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/koushik-varma-m/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/koushik-varma-m/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/koushik-varma-m/LeetCode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/koushik-varma-m/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/koushik-varma-m/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/koushik-varma-m/LeetCode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/koushik-varma-m/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/koushik-varma-m/LeetCode/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/koushik-varma-m/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/koushik-varma-m/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/koushik-varma-m/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/koushik-varma-m/LeetCode/tree/master/0326-power-of-three) |
