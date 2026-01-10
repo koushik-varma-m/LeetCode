@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/koushik-varma-m/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/koushik-varma-m/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/koushik-varma-m/LeetCode/tree/master/0486-predict-the-winner) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/koushik-varma-m/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/koushik-varma-m/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0867-new-21-game](https://github.com/koushik-varma-m/LeetCode/tree/master/0867-new-21-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/koushik-varma-m/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/koushik-varma-m/LeetCode/tree/master/0097-interleaving-string) |
 | [0165-compare-version-numbers](https://github.com/koushik-varma-m/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0474-ones-and-zeroes](https://github.com/koushik-varma-m/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/koushik-varma-m/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/koushik-varma-m/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/koushik-varma-m/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/koushik-varma-m/LeetCode/tree/master/1006-vowel-spellchecker) |
