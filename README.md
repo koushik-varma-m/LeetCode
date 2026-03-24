@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/koushik-varma-m/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/koushik-varma-m/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/koushik-varma-m/LeetCode/tree/master/2689-rearranging-fruits) |
+| [2906-construct-product-matrix](https://github.com/koushik-varma-m/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/koushik-varma-m/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/koushik-varma-m/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/koushik-varma-m/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/koushik-varma-m/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/koushik-varma-m/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/koushik-varma-m/LeetCode/tree/master/2625-increment-submatrices-by-one) |
+| [2906-construct-product-matrix](https://github.com/koushik-varma-m/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/koushik-varma-m/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/koushik-varma-m/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/koushik-varma-m/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/koushik-varma-m/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/koushik-varma-m/LeetCode/tree/master/2625-increment-submatrices-by-one) |
+| [2906-construct-product-matrix](https://github.com/koushik-varma-m/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/koushik-varma-m/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/koushik-varma-m/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
