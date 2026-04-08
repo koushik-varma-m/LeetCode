@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/koushik-varma-m/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/koushik-varma-m/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/koushik-varma-m/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/koushik-varma-m/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/koushik-varma-m/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/koushik-varma-m/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/koushik-varma-m/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/koushik-varma-m/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/koushik-varma-m/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/koushik-varma-m/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/koushik-varma-m/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/koushik-varma-m/LeetCode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/koushik-varma-m/LeetCode/tree/master/0190-reverse-bits) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/koushik-varma-m/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Bit Manipulation
 |  |
 | ------- |
