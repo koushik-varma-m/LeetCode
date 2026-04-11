@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/koushik-varma-m/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/koushik-varma-m/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/koushik-varma-m/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/koushik-varma-m/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/koushik-varma-m/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3678-design-task-manager](https://github.com/koushik-varma-m/LeetCode/tree/master/3678-design-task-manager) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/koushik-varma-m/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3827-implement-router](https://github.com/koushik-varma-m/LeetCode/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/koushik-varma-m/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/koushik-varma-m/LeetCode/tree/master/3863-power-grid-maintenance) |
