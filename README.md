@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/koushik-varma-m/LeetCode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/koushik-varma-m/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/koushik-varma-m/LeetCode/tree/master/0268-missing-number) |
+| [0396-rotate-function](https://github.com/koushik-varma-m/LeetCode/tree/master/0396-rotate-function) |
 | [0417-pacific-atlantic-water-flow](https://github.com/koushik-varma-m/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/koushik-varma-m/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/koushik-varma-m/LeetCode/tree/master/0473-matchsticks-to-square) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/koushik-varma-m/LeetCode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/koushik-varma-m/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/koushik-varma-m/LeetCode/tree/master/0120-triangle) |
+| [0396-rotate-function](https://github.com/koushik-varma-m/LeetCode/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/koushik-varma-m/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/koushik-varma-m/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/koushik-varma-m/LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/koushik-varma-m/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/koushik-varma-m/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/koushik-varma-m/LeetCode/tree/master/0342-power-of-four) |
+| [0396-rotate-function](https://github.com/koushik-varma-m/LeetCode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/koushik-varma-m/LeetCode/tree/master/0486-predict-the-winner) |
 | [0679-24-game](https://github.com/koushik-varma-m/LeetCode/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/koushik-varma-m/LeetCode/tree/master/0830-largest-triangle-area) |
