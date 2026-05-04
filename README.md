@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/koushik-varma-m/LeetCode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/koushik-varma-m/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/koushik-varma-m/LeetCode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/koushik-varma-m/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/koushik-varma-m/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/koushik-varma-m/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/koushik-varma-m/LeetCode/tree/master/0056-merge-intervals) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/koushik-varma-m/LeetCode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/koushik-varma-m/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/koushik-varma-m/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/koushik-varma-m/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/koushik-varma-m/LeetCode/tree/master/0268-missing-number) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/koushik-varma-m/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/koushik-varma-m/LeetCode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/koushik-varma-m/LeetCode/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/koushik-varma-m/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/koushik-varma-m/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/koushik-varma-m/LeetCode/tree/master/0498-diagonal-traverse) |
