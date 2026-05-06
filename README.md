@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/koushik-varma-m/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/koushik-varma-m/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/koushik-varma-m/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/koushik-varma-m/LeetCode/tree/master/1861-rotating-the-box) |
 | [1895-largest-magic-square](https://github.com/koushik-varma-m/LeetCode/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/koushik-varma-m/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/koushik-varma-m/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/koushik-varma-m/LeetCode/tree/master/0011-container-with-most-water) |
 | [0165-compare-version-numbers](https://github.com/koushik-varma-m/LeetCode/tree/master/0165-compare-version-numbers) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/koushik-varma-m/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/koushik-varma-m/LeetCode/tree/master/1861-rotating-the-box) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/koushik-varma-m/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/koushik-varma-m/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/koushik-varma-m/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/koushik-varma-m/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/koushik-varma-m/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/koushik-varma-m/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1861-rotating-the-box](https://github.com/koushik-varma-m/LeetCode/tree/master/1861-rotating-the-box) |
 | [1895-largest-magic-square](https://github.com/koushik-varma-m/LeetCode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/koushik-varma-m/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/koushik-varma-m/LeetCode/tree/master/1975-maximum-matrix-sum) |
