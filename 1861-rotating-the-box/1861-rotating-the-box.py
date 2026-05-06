@@ -8,7 +8,7 @@ class Solution:
             for j in range(m-1,-1,-1):
                 temp.append(boxGrid[j][i])
             rotated_box.append(temp)
-        print(rotated_box)
+
         for i in range(0,m):
             for j in range(n-2,-1,-1):
                 if rotated_box[j][i]=="#":
