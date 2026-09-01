@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/koushik-varma-m/LeetCode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/koushik-varma-m/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/koushik-varma-m/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/koushik-varma-m/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/koushik-varma-m/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/koushik-varma-m/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3519-find-the-number-of-winning-players](https://github.com/koushik-varma-m/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/koushik-varma-m/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/koushik-varma-m/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/koushik-varma-m/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/koushik-varma-m/LeetCode/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/koushik-varma-m/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/koushik-varma-m/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/koushik-varma-m/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/koushik-varma-m/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3863-power-grid-maintenance](https://github.com/koushik-varma-m/LeetCode/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
@@ -624,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/koushik-varma-m/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/koushik-varma-m/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/koushik-varma-m/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/koushik-varma-m/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/koushik-varma-m/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Binary Search
@@ -749,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/koushik-varma-m/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/koushik-varma-m/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/koushik-varma-m/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/koushik-varma-m/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/koushik-varma-m/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/koushik-varma-m/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/koushik-varma-m/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
