@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/koushik-varma-m/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/koushik-varma-m/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/koushik-varma-m/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/koushik-varma-m/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/koushik-varma-m/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/koushik-varma-m/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1871-jump-game-vii](https://github.com/koushik-varma-m/LeetCode/tree/master/1871-jump-game-vii) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/koushik-varma-m/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/koushik-varma-m/LeetCode/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/koushik-varma-m/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/koushik-varma-m/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/koushik-varma-m/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/koushik-varma-m/LeetCode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/koushik-varma-m/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/koushik-varma-m/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/koushik-varma-m/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/koushik-varma-m/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/koushik-varma-m/LeetCode/tree/master/1871-jump-game-vii) |
 | [1895-largest-magic-square](https://github.com/koushik-varma-m/LeetCode/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/koushik-varma-m/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -840,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/koushik-varma-m/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/koushik-varma-m/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/koushik-varma-m/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/koushik-varma-m/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
