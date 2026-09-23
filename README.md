@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/koushik-varma-m/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/koushik-varma-m/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/koushik-varma-m/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/koushik-varma-m/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/koushik-varma-m/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/koushik-varma-m/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/koushik-varma-m/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/koushik-varma-m/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/koushik-varma-m/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/koushik-varma-m/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/koushik-varma-m/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/koushik-varma-m/LeetCode/tree/master/1871-jump-game-vii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/koushik-varma-m/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/koushik-varma-m/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/koushik-varma-m/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/koushik-varma-m/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/koushik-varma-m/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/koushik-varma-m/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/koushik-varma-m/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/koushik-varma-m/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/koushik-varma-m/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/koushik-varma-m/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/koushik-varma-m/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1612-avoid-flood-in-the-city](https://github.com/koushik-varma-m/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/koushik-varma-m/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/koushik-varma-m/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/koushik-varma-m/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/koushik-varma-m/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
@@ -703,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/koushik-varma-m/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/koushik-varma-m/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/koushik-varma-m/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/koushik-varma-m/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/koushik-varma-m/LeetCode/tree/master/1871-jump-game-vii) |
 | [1895-largest-magic-square](https://github.com/koushik-varma-m/LeetCode/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/koushik-varma-m/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
