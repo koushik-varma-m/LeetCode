@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/koushik-varma-m/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/koushik-varma-m/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/koushik-varma-m/LeetCode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/koushik-varma-m/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/koushik-varma-m/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/koushik-varma-m/LeetCode/tree/master/0011-container-with-most-water) |
 | [0165-compare-version-numbers](https://github.com/koushik-varma-m/LeetCode/tree/master/0165-compare-version-numbers) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/koushik-varma-m/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/koushik-varma-m/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/koushik-varma-m/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0097-interleaving-string](https://github.com/koushik-varma-m/LeetCode/tree/master/0097-interleaving-string) |
 | [0165-compare-version-numbers](https://github.com/koushik-varma-m/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0474-ones-and-zeroes](https://github.com/koushik-varma-m/LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -921,4 +924,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/koushik-varma-m/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/koushik-varma-m/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
